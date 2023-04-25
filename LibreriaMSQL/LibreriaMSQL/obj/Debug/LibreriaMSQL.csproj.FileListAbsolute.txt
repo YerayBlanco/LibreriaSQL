@@ -1,0 +1,11 @@
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\obj\Debug\LibreriaMSQL.csproj.AssemblyReference.cache
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\obj\Debug\LibreriaMSQL.Form1.resources
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\obj\Debug\LibreriaMSQL.Properties.Resources.resources
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\obj\Debug\LibreriaMSQL.csproj.GenerateResource.cache
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\obj\Debug\LibreriaMSQL.csproj.CoreCompileInputs.cache
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\bin\Debug\LibreriaMSQL.exe.config
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\bin\Debug\LibreriaMSQL.exe
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\bin\Debug\LibreriaMSQL.pdb
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\obj\Debug\LibreriaMSQL.exe
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\obj\Debug\LibreriaMSQL.pdb
+C:\Users\yeray.blanco.aldao\source\repos\LibreriaMSQL\LibreriaMSQL\obj\Debug\LibreriaMSQL.csproj.SuggestedBindingRedirects.cache
